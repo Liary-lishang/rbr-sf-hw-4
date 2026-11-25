@@ -22,4 +22,3 @@ jobs:
 
       - name: Build PlatformIO Project
         run: pio run
-        working-directory: RBR-Blinky
